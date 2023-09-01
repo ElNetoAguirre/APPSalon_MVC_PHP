@@ -25,3 +25,7 @@ En la sección de *Administrador* te permitirá ver las citas agendadas mediante
 4. En otra terminal, levanta el Backend de la app con el comando `php -S localhost:3000` para acceder la base da datos local la cual correrá en la dirección `http://localhost:3000`, recuerda que debes hacerlo dede la carpeta **public**.
 
 5. Ejecuta `npm run build` para iniciar el proceso de automatización de la compilación de archivos para el caso de llevar la app a producción.
+
+## Producción
+
+Si deseas ver el funcionamiento de la APP en producción, visita la página: [App Salon](https://elneto-appsalon.domcloud.io/).
